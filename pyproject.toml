@@ -1,0 +1,14 @@
+[project]
+name = "hatch"
+description = "Modern, extensible Python project management"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.12"
+authors = [
+  { name = "", email = "" },
+]
+classifiers = [
+]
+dependencies = [
+  "backtrader",
+]
